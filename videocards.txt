@@ -1,0 +1,50 @@
+﻿Gaming;1;GigaByte;RTX 4070 Gaming OC;Геймерська;12288;GDDR6X;21000;7680x4320;36500
+Multimedia;2;ASUS;GT 1030 Silent;Мультимедійна;2048;GDDR5;6008;4096x2160;4800
+Gaming;3;MSI;RTX 3060 Ventus;Геймерська;12288;GDDR6;15000;7680x4320;31000
+Multimedia;4;Sapphire;RX 6400 Pulse;Мультимедійна;4096;GDDR6;16000;7680x4320;11500
+Gaming;5;PowerColor;RX 6700 XT Fighter;Геймерська;12288;GDDR6;16000;7680x4320;28500
+Gaming;6;ASUS;RTX 4060 Dual OC;Геймерська;8192;GDDR6;17000;7680x4320;16800
+Gaming;7;MSI;RTX 4060 Ti Ventus 2X;Геймерська;8192;GDDR6;18000;7680x4320;22500
+Gaming;8;GigaByte;RTX 4070 Super Windforce;Геймерська;12288;GDDR6X;21000;7680x4320;41500
+Gaming;9;Palit;RTX 3050 Dual;Геймерська;8192;GDDR6;14000;7680x4320;11200
+Gaming;10;Zotac;RTX 3060 Twin Edge;Геймерська;12288;GDDR6;15000;7680x4320;29500
+Gaming;11;Sapphire;RX 7600 Pulse;Геймерська;8192;GDDR6;18000;7680x4320;14900
+Gaming;12;PowerColor;RX 7600 Fighter;Геймерська;8192;GDDR6;18000;7680x4320;14500
+Gaming;13;ASRock;RX 7700 XT Challenger;Геймерська;12288;GDDR6;18000;7680x4320;26500
+Gaming;14;Sapphire;RX 7800 XT Nitro Plus;Геймерська;16384;GDDR6;19500;7680x4320;34500
+Gaming;15;PowerColor;RX 7900 GRE Hellhound;Геймерська;16384;GDDR6;18000;7680x4320;39200
+Gaming;16;XFX;RX 6600 Speedster SWFT 210;Геймерська;8192;GDDR6;14000;7680x4320;10400
+Gaming;17;XFX;RX 6650 XT Speedster Merc 308;Геймерська;8192;GDDR6;17500;7680x4320;13200
+Gaming;18;MSI;RX 6750 XT Mech 2X;Геймерська;12288;GDDR6;18000;7680x4320;23800
+Gaming;19;ASUS;TUF Gaming RX 6800;Геймерська;16384;GDDR6;16000;7680x4320;29800
+Gaming;20;GigaByte;RTX 4080 Super Gaming OC;Геймерська;16384;GDDR6X;23000;7680x4320;64500
+Gaming;21;MSI;RTX 4090 Suprim X;Геймерська;24576;GDDR6X;21000;7680x4320;98500
+Gaming;22;Palit;RTX 4070 Ti Super JetStream;Геймерська;16384;GDDR6X;21000;7680x4320;52500
+Gaming;23;Inno3D;RTX 4060 Compact;Геймерська;8192;GDDR6;17000;7680x4320;15900
+Gaming;24;Gainward;RTX 3060 Ghost;Геймерська;12288;GDDR6;15000;7680x4320;28900
+Gaming;25;Sapphire;RX 7900 XTX Pulse;Геймерська;24576;GDDR6;20000;7680x4320;57900
+Multimedia;26;ASUS;GT 730 Silent;Мультимедійна;2048;GDDR5;5010;2560x1600;2900
+Multimedia;27;GigaByte;GT 710 Low Profile;Для роботи і навчання;2048;DDR3;1800;2560x1600;2100
+Multimedia;28;MSI;GT 1030 Aero ITX;Мультимедійна;2048;GDDR5;6008;4096x2160;4700
+Multimedia;29;AFOX;Radeon R5 230;Для роботи і навчання;2048;DDR3;1333;2560x1600;1850
+Multimedia;30;Biostar;Radeon RX 550;Мультимедійна;4096;GDDR5;7000;4096x2160;4300
+Multimedia;31;ASUS;RX 550 Phoenix;Мультимедійна;4096;GDDR5;7000;5120x2880;5100
+Multimedia;32;Sapphire;RX 550 Pulse;Мультимедійна;4096;GDDR5;7000;5120x2880;5200
+Multimedia;33;PowerColor;RX 560 Red Dragon;Мультимедійна;4096;GDDR5;7000;5120x2880;6200
+Multimedia;34;GigaByte;GTX 1050 Ti OC;Мультимедійна;4096;GDDR5;7008;7680x4320;7900
+Multimedia;35;MSI;GTX 1650 D6 Ventus XS;Мультимедійна;4096;GDDR6;12000;7680x4320;8900
+Multimedia;36;Palit;GTX 1650 StormX;Мультимедійна;4096;GDDR6;12000;7680x4320;8600
+Multimedia;37;ASUS;GTX 1660 Super Phoenix;Мультимедійна;6144;GDDR6;14000;7680x4320;11800
+Multimedia;38;MSI;GTX 1660 Ti Ventus XS;Мультимедійна;6144;GDDR6;12000;7680x4320;12400
+Multimedia;39;GigaByte;RTX 2060 OC;Мультимедійна;6144;GDDR6;14000;7680x4320;13900
+Multimedia;40;Zotac;RTX 2060 Twin Fan;Мультимедійна;6144;GDDR6;14000;7680x4320;13600
+Multimedia;41;ASRock;Intel Arc A380 Challenger;Мультимедійна;6144;GDDR6;15500;7680x4320;5700
+Multimedia;42;Sparkle;Intel Arc A580 Orc;Мультимедійна;8192;GDDR6;16000;7680x4320;9100
+Multimedia;43;ASRock;Intel Arc A750 Challenger;Мультимедійна;8192;GDDR6;16000;7680x4320;10900
+Multimedia;44;Acer;Intel Arc A770 Predator BiFrost;Мультимедійна;16384;GDDR6;17500;7680x4320;15800
+Gaming;45;ASUS;ROG Strix RTX 4070 Ti;Геймерська;12288;GDDR6X;21000;7680x4320;48900
+Gaming;46;MSI;RTX 4070 Ti Gaming X Trio;Геймерська;12288;GDDR6X;21000;7680x4320;49500
+Gaming;47;GigaByte;RTX 3070 Eagle OC;Геймерська;8192;GDDR6;14000;7680x4320;21900
+Gaming;48;Palit;RTX 3070 GamingPro;Геймерська;8192;GDDR6;14000;7680x4320;22500
+Gaming;49;Sapphire;RX 6800 XT Nitro Plus;Геймерська;16384;GDDR6;16000;7680x4320;33500
+Gaming;50;XFX;RX 6900 XT Speedster Merc 319;Геймерська;16384;GDDR6;16000;7680x4320;36900
